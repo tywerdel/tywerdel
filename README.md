@@ -1,6 +1,10 @@
 ![Werdel_Banner](https://user-images.githubusercontent.com/45497381/187813221-31bb970c-4f74-443c-a3d3-7a834a6ba4b4.png)
-- 👋 Hi, I’m Ty Werdel
-- I am a Vice Chancellor's Postdoctoral Fellow at Texas A&M University in the Department of Rangeland, Wildlife & Fisheries Management
+
+<p align="center">
+  👋 Hi There, I’m Ty Werdel 
+</p>
+
+- I'm a Vice Chancellor's Postdoctoral Fellow at Texas A&M University in the Department of Rangeland, Wildlife & Fisheries Management
 - [<img alt="Twitter" width="21px" src="https://github.com/tywerdel/tywerdel/blob/main/Images/twitter.png?raw=true"/>](https://twitter.com/TyWerdel)
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
