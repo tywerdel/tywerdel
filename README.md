@@ -11,8 +11,7 @@
 </h3>
   
 <h3 align="center">
-  My research involves the ecology and applied management of wildlife species, primarily mammals🦌🐏🦊
-  
+  My research involves the ecology and applied management of wildlife species, primarily mammals🦌🐏🦊  
 </h3> 
 
 <h3 align="center">
