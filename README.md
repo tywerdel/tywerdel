@@ -11,7 +11,8 @@
 </h3>
   
 <h3 align="center">
-  My research involves the ecology and applied management of wildlife species, primarily mammals🦌🐏🦊 
+  My research involves the ecology and applied management of wildlife species, primarily mammals🦌🐏🦊
+  
   <img alt="RWFM" width="240px" src="https://github.com/tywerdel/tywerdel/blob/main/Images/WerdelWildlifePatch_RWFM_2.png?raw=true"/>
 </h3> 
 
