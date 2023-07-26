@@ -5,7 +5,7 @@
 </h2>
 
 <h3 align="center">
-  I'm a Vice Chancellor's Postdoctoral Fellow at Texas A&M University
+  I'm an Assistant Professor at Texas A&M University
 
   [<img alt="RWFM" width="240px" src="https://github.com/tywerdel/tywerdel/blob/main/Images/Stacked-DarkBG.png?raw=true"/>](https://rwfm.tamu.edu/people/werdel-ty/)
 </h3>
@@ -21,7 +21,7 @@
 [<img alt="LinkedIn" width="40px" src="https://github.com/tywerdel/tywerdel/blob/main/Images/linkedin.png?raw=true"/>](https://www.linkedin.com/in/ty-werdel-b054b0b1/) <space> [<img alt="Twitter" width="40px" src="https://github.com/tywerdel/tywerdel/blob/main/Images/twitter.png?raw=true"/>](https://twitter.com/TyWerdel)<space> [<img alt="ResearchGate" width="40px" src="https://github.com/tywerdel/tywerdel/blob/main/Images/researchgate_icon_130843.png?raw=true"/>](https://www.researchgate.net/profile/Ty-Werdel-2)
   
 <h2 align="left">
- 👀 Follow my (start-up) lab's research website:
+ 👀 Follow my lab's research website:
 </h2> 
   
 [<img alt="Werdel Wildlife" width="40px" src="https://github.com/tywerdel/tywerdel/blob/main/Images/WWLogoWhite_edited.png?raw=true"/>](https://www.werdelwildlife.com)
